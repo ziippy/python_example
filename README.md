@@ -6,3 +6,5 @@ decision_tree_for_digits.py - sklearn 의 digits 에 대해 decision tree 로 �
 get_maximum_difference_between_two_elements - 리스트에서 element 간의 최대 차이 구하기
 
 dynamic_programming_climbing_stairs_game - 동적 계획법 (계단 오르기 게임)
+
+dynamic_programming_painting_tiles - 동적 계획법 (타일 그리기)
